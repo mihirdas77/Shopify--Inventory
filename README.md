@@ -37,7 +37,7 @@ This project is a **Shopify Inventory Management System** built using **Node.js*
 4. Create a `.env` file in the root directory with the following variables:
    ```plaintext
    MONGO_URI=<your-mongodb-uri>
-   PORT=5000
+   PORT=5050
    ```
 
 5. Start the server:
